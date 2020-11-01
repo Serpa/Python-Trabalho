@@ -1,0 +1,28 @@
+
+----------------------------------------------
+Lista Ordenada Ascendente
+Número de comparações: 26
+Duracao: 1.009627
+Número Buscado: 26
+----------------------------------------------
+
+----------------------------------------------
+Lista Ordenada Descendente
+Número de comparações: 15
+Duracao: 1.014074
+Número Buscado: 26
+----------------------------------------------
+
+----------------------------------------------
+Lista Desordenada
+Número de comparações: 8
+Duracao: 1.001029
+Número Buscado: 26
+----------------------------------------------
+
+----------------------------------------------
+Lista Aleatória
+Número de comparações: 9
+Duracao: 1.005357
+Número Buscado: 26
+----------------------------------------------
